@@ -1,0 +1,1 @@
+Sample text that originates from file1
